@@ -42,7 +42,7 @@
                     </ul>
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="btn btn-accent-codecyan btn-lg" href="https://drive.google.com/file/d/1oV8QgW7y3Zx3Q0JYBZ6F0iAjJp_FAE84/view?usp=sharing" target="blank" role="button">Resume <i
+                            <a class="btn btn-accent-codecyan btn-lg" href="https://drive.google.com/file/d/1oV8QgW7y3Zx3Q0JYBZ6F0iAjJp_FAE84/view?usp=sharing" target="_blank" role="button">Resume <i
                                     class="bi bi-download ms-1"></i></a>
                         </li>
                     </ul>
